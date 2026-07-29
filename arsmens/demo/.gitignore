@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+
+# Ignore generated mock data
+data/03_processed/*.parquet
+data/03_processed/*.csv

@@ -1,0 +1,109 @@
+[{"COD":"DPOP15007", "Nombre":"Aller. Total. Total habitantes. Personas. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":6324, "T3_Variable":"Municipios", "Nombre":"Aller", "Codigo":"33002"}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"0"}
+,{"Id":8677, "T3_Variable":"Tamaño de los municipios", "Nombre":"Total habitantes", "Codigo":"0"}
+,{"Id":20258, "T3_Variable":"Tipo de dato", "Nombre":"Personas", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2025, "Valor":10011.0}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2024, "Valor":10012.0}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2023, "Valor":10076.0}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2022, "Valor":10201.0}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2021, "Valor":10346.0}
+,{"Fecha":"2020-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2020, "Valor":10413.0}
+,{"Fecha":"2019-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2019, "Valor":10613.0}
+,{"Fecha":"2018-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2018, "Valor":10808.0}
+,{"Fecha":"2017-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2017, "Valor":11027.0}
+,{"Fecha":"2016-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2016, "Valor":11286.0}
+,{"Fecha":"2015-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2015, "Valor":11555.0}
+,{"Fecha":"2014-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2014, "Valor":11768.0}
+,{"Fecha":"2013-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2013, "Valor":11906.0}
+,{"Fecha":"2012-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2012, "Valor":12136.0}
+,{"Fecha":"2011-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2011, "Valor":12324.0}
+,{"Fecha":"2010-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2010, "Valor":12582.0}
+,{"Fecha":"2009-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2009, "Valor":12766.0}
+,{"Fecha":"2008-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2008, "Valor":12970.0}
+,{"Fecha":"2007-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2007, "Valor":13193.0}
+,{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":13421.0}
+,{"Fecha":"2005-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2005, "Valor":13702.0}
+,{"Fecha":"2004-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2004, "Valor":14036.0}
+,{"Fecha":"2003-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2003, "Valor":14366.0}
+,{"Fecha":"2002-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2002, "Valor":14786.0}
+,{"Fecha":"2001-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2001, "Valor":15100.0}
+,{"Fecha":"2000-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2000, "Valor":15398.0}
+,{"Fecha":"1999-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1999, "Valor":15775.0}
+,{"Fecha":"1998-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1998, "Valor":15985.0}
+,{"Fecha":"1996-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1996, "Valor":16347.0}
+]
+}
+,{"COD":"DPOP15008", "Nombre":"Aller. Hombres. Total habitantes. Personas. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":6324, "T3_Variable":"Municipios", "Nombre":"Aller", "Codigo":"33002"}
+,{"Id":452, "T3_Variable":"Sexo", "Nombre":"Hombres", "Codigo":"1"}
+,{"Id":8677, "T3_Variable":"Tamaño de los municipios", "Nombre":"Total habitantes", "Codigo":"0"}
+,{"Id":20258, "T3_Variable":"Tipo de dato", "Nombre":"Personas", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2025, "Valor":4926.0}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2024, "Valor":4934.0}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2023, "Valor":4946.0}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2022, "Valor":5040.0}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2021, "Valor":5109.0}
+,{"Fecha":"2020-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2020, "Valor":5141.0}
+,{"Fecha":"2019-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2019, "Valor":5248.0}
+,{"Fecha":"2018-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2018, "Valor":5326.0}
+,{"Fecha":"2017-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2017, "Valor":5423.0}
+,{"Fecha":"2016-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2016, "Valor":5555.0}
+,{"Fecha":"2015-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2015, "Valor":5693.0}
+,{"Fecha":"2014-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2014, "Valor":5794.0}
+,{"Fecha":"2013-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2013, "Valor":5864.0}
+,{"Fecha":"2012-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2012, "Valor":5980.0}
+,{"Fecha":"2011-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2011, "Valor":6056.0}
+,{"Fecha":"2010-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2010, "Valor":6190.0}
+,{"Fecha":"2009-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2009, "Valor":6260.0}
+,{"Fecha":"2008-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2008, "Valor":6379.0}
+,{"Fecha":"2007-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2007, "Valor":6470.0}
+,{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":6590.0}
+,{"Fecha":"2005-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2005, "Valor":6720.0}
+,{"Fecha":"2004-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2004, "Valor":6884.0}
+,{"Fecha":"2003-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2003, "Valor":7047.0}
+,{"Fecha":"2002-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2002, "Valor":7259.0}
+,{"Fecha":"2001-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2001, "Valor":7429.0}
+,{"Fecha":"2000-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2000, "Valor":7566.0}
+,{"Fecha":"1999-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1999, "Valor":7765.0}
+,{"Fecha":"1998-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1998, "Valor":7896.0}
+,{"Fecha":"1996-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1996, "Valor":8120.0}
+]
+}
+,{"COD":"DPOP15009", "Nombre":"Aller. Mujeres. Total habitantes. Personas. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":6324, "T3_Variable":"Municipios", "Nombre":"Aller", "Codigo":"33002"}
+,{"Id":453, "T3_Variable":"Sexo", "Nombre":"Mujeres", "Codigo":"2"}
+,{"Id":8677, "T3_Variable":"Tamaño de los municipios", "Nombre":"Total habitantes", "Codigo":"0"}
+,{"Id":20258, "T3_Variable":"Tipo de dato", "Nombre":"Personas", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2025, "Valor":5085.0}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2024, "Valor":5078.0}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2023, "Valor":5130.0}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2022, "Valor":5161.0}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2021, "Valor":5237.0}
+,{"Fecha":"2020-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2020, "Valor":5272.0}
+,{"Fecha":"2019-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2019, "Valor":5365.0}
+,{"Fecha":"2018-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2018, "Valor":5482.0}
+,{"Fecha":"2017-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2017, "Valor":5604.0}
+,{"Fecha":"2016-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2016, "Valor":5731.0}
+,{"Fecha":"2015-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2015, "Valor":5862.0}
+,{"Fecha":"2014-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2014, "Valor":5974.0}
+,{"Fecha":"2013-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2013, "Valor":6042.0}
+,{"Fecha":"2012-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2012, "Valor":6156.0}
+,{"Fecha":"2011-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2011, "Valor":6268.0}
+,{"Fecha":"2010-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2010, "Valor":6392.0}
+,{"Fecha":"2009-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2009, "Valor":6506.0}
+,{"Fecha":"2008-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2008, "Valor":6591.0}
+,{"Fecha":"2007-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2007, "Valor":6723.0}
+,{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":6831.0}
+,{"Fecha":"2005-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2005, "Valor":6982.0}
+,{"Fecha":"2004-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2004, "Valor":7152.0}
+,{"Fecha":"2003-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2003, "Valor":7319.0}
+,{"Fecha":"2002-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2002, "Valor":7527.0}
+,{"Fecha":"2001-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2001, "Valor":7671.0}
+,{"Fecha":"2000-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2000, "Valor":7832.0}
+,{"Fecha":"1999-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1999, "Valor":8010.0}
+,{"Fecha":"1998-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1998, "Valor":8089.0}
+,{"Fecha":"1996-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":1996, "Valor":8227.0}
+]
+}
+]
