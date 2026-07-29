@@ -3,7 +3,7 @@ import pandas as pd
 import pydeck as pdk
 from translations import t # Import the translation function
 
-st.set_page_config(page_title="Territorial Intelligence Platform", layout="wide")
+st.set_page_config(page_title="Territorial Intelligence Platform Prototype Pilot", layout="wide")
 
 # Get current language (fallback to 'es' if not set yet)
 lang = st.session_state.get('lang', 'es')
